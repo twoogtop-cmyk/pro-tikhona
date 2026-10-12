@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://tihon.website/download/ProTikhona-latest.apk"><img src="https://img.shields.io/badge/Скачать-Android-e8661b?style=for-the-badge&logo=android&logoColor=white" alt="Скачать для Android"></a>
   <a href="https://tihon.website/download/ProTikhona-tv.apk"><img src="https://img.shields.io/badge/Скачать-Android%20TV-3a2a20?style=for-the-badge&logo=androidtv&logoColor=white" alt="Скачать для Android TV"></a>
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/twoogtop-cmyk/pro-tikhona?style=for-the-badge&label=версия&color=2f9e55" alt="Последняя версия"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/GitHub-Releases-2f9e55?style=for-the-badge&logo=github&logoColor=white" alt="Все версии на GitHub"></a>
 </p>
 
 <p align="center">
