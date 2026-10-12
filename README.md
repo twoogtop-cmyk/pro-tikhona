@@ -1,6 +1,8 @@
-<p align="center"><img src="icon.png" width="160" alt="Про Тихона"></p>
+<p align="center"><img src="icon.png" width="160" alt="Тихон"></p>
 
-<h1 align="center">Про Тихона</h1>
+<h1 align="center">Тихон</h1>
+
+<p align="center"><b>главный по тропам</b></p>
 
 <p align="center">Приложение сервиса <b>Тихон VPN</b> для Android.<br>
 Лисичка Тихон знает все тропы: найдёт короткий путь до YouTube, Telegram и любимых сайтов —<br>даже когда оператор включает «белые списки».</p>
